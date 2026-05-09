@@ -43,7 +43,7 @@ obfuscation_cleaner/
 
 > **Les fichiers présents dans le dossier `samples/` ne sont PAS des logiciels malveillants.**
 >
-> Il s'agit de scripts Python **artificiellement obfusqués**, créés uniquement à des fins **pédagogiques** pour tester les fonctionnalités de l'outil. Ils ne contiennent aucun code nuisible, aucun payload malveillant, et n'effectuent aucune action dangereuse. Ils simulent simplement différentes techniques d'obfuscation (Base64, Hexadécimal, variables renommées, dead code) sur des données fictives.
+> Il s'agit de scripts Python **artificiellement obfusqués**, créés uniquement à des fins **pédagogiques** pour tester les fonctionnalités de l'outil. Ils ne contiennent aucun code nuisible, et n'effectuent aucune action dangereuse. Ils simulent simplement différentes techniques d'obfuscation (Base64, Hexadécimal, variables renommées, dead code) sur des données fictives.
 
 ---
 
