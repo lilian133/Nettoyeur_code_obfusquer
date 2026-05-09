@@ -141,9 +141,7 @@ Interface graphique Tkinter en deux colonnes :
 ---
 
 ## 👤 Auteur
-
 **YANGUENDJI Jerahmeel Lilian**
-
 [Email](mailto:liyanguendji@gmail.com) | [LinkedIn](https://linkedin.com/in/lilian-yanguendji)
 
 ## 📄 Licence
