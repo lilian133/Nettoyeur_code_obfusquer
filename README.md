@@ -142,10 +142,7 @@ Interface graphique Tkinter en deux colonnes :
 
 ## 👤 Auteur
 
-**YANGUENDJI Jerahmeel Lilian**
-
-[![Email](https://img.shields.io/badge/Email-liyanguendji@gmail.com-blue?style=flat&logo=gmail)](mailto:liyanguendji@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lilian%20Yanguendji-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/lilian-yanguendji)
+**YANGUENDJI Jerahmeel Lilian** — [📧 Email](mailto:liyanguendji@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/lilian-yanguendji)
 
 ## 📄 Licence
 
